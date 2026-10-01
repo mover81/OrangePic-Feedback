@@ -7,18 +7,18 @@ All notable changes to OrangePic. Newest first. The app is on the App Store; thi
 Ideas under consideration, no promised dates. Vote or suggest in [Discussions](https://github.com/mover81/OrangePic-Feedback/discussions).
 
 - [ ] New UI and slideshow function for 'Featured'
-- [ ] BGM recommedation for slideshow of tvOS based on the selected photos
+- [ ] BGM recommendation for slideshow of tvOS based on the selected photos
 
 ### Known issues
 - "None reported"
 
-## 2.1 - 2026-10-1 (iOS)
+## 2.1 - 2026-10-01 (iOS)
 
-- 'Featured' photos generation imporoved.
+- 'Featured' photos generation improved.
 
-## 2.0 - 2026-9-17 (iOS, tvOS)
+## 2.0 - 2026-09-17 (iOS, tvOS)
 
-- App Icon updaded
+- App Icon updated
 - HTTP connection support
 - App UI design improved
 - Recommended photos in ‘Featured’
@@ -27,7 +27,7 @@ Ideas under consideration, no promised dates. Vote or suggest in [Discussions](h
 - Search Tab function improved
 - Watch Sync settings improved
 
-## 1.2 - 2026-3-19 (iOS, tvOS)
+## 1.2 - 2026-03-19 (iOS, tvOS)
 
 - bugs fixed for search bar, toast message, multi-selection
 
