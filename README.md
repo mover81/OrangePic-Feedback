@@ -43,20 +43,21 @@ See [GETTING_STARTED.md](GETTING_STARTED.md) for connecting the app to your serv
 
 ## Screenshots
 
-**<iPhone>**
+**iPhone**
 <br>
-<img width="400" height="865" alt="컬렉션-iPhone 14 Plus" src="https://github.com/user-attachments/assets/8dafaba3-83fc-4725-92e2-b4364d809937" />
-<img width="400" height="865" alt="위젯-iPhone 14 Plus" src="https://github.com/user-attachments/assets/a6d7bf46-c86f-463b-969d-b144c87b3ea6" />
+<img width="300" height="648" alt="컬렉션-iPhone 14 Plus" src="https://github.com/user-attachments/assets/82140ffb-8cbf-4567-be15-45267367fe7f" />
+
+<img width="300" height="648" alt="위젯-iPhone 14 Plus" src="https://github.com/user-attachments/assets/a6d7bf46-c86f-463b-969d-b144c87b3ea6" />
 <br>
 
-**<Apple TV>**
+**Apple TV**
 <br>
 <img width="900" height="529" alt="달력-tvOS" src="https://github.com/user-attachments/assets/71e3a39a-2ea3-499b-852b-9c3e7d7f3461" />
 <br>
 
-**<Apple Watch>**
+**Apple Watch**
 <br>
-<img width="396" height="484" alt="Screenshot 2026-09-16 at 1 25 56 PM" src="https://github.com/user-attachments/assets/a76dea8b-92a5-410d-ab7f-c5dd0289257d" />
+<img width="200" height="244" alt="Screenshot 2026-09-16 at 1 25 56 PM" src="https://github.com/user-attachments/assets/a76dea8b-92a5-410d-ab7f-c5dd0289257d" />
 <br>
 
 ## Privacy
