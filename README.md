@@ -30,12 +30,12 @@ All features are available without a subscription.
 | Apple TV | tvOS 18.5 |
 | Apple Watch | watchOS 11.5 |
 
-PhotoPrism server: [tested versions: Build 260728-bbde8f452]
+PhotoPrism server: tested versions - Build 260728-bbde8f452
 
 ## Requirements
 
 - A running PhotoPrism server that you control
-- The server can be reachable over **HTTPS** and also **HTTP**
+- The server can be reachable over **HTTPS** and also **HTTP** from version 2.0
 
 ## Getting started
 
@@ -62,7 +62,7 @@ See [GETTING_STARTED.md](GETTING_STARTED.md) for connecting the app to your serv
 
 ## Privacy
 
-OrangePic talks only to the PhotoPrism server you enter. The developer does not collect any data from the app.
+The developer does not collect any data from the app.
 Full policy: [English](PrivacyPolicy_En.md) | [한국어](PrivacyPolicy_Kr.md)
 
 ## Feedback and support
